@@ -39,5 +39,5 @@ east ask north west leave west south
 ### Ending 2
 
 ```
-east leave north west leave
+east ignore north west leave
 ```

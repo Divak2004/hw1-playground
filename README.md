@@ -11,14 +11,10 @@
 5. Unknown Area
 6. Cave
 7. Yan
-8. 
-9. 
-10. 
 
 **What items does your game have?**
 
 1. Black ring (can be obtained by interacting with Amiya and 'aid' her)
-2. 
 
 **Explain how your code is designed. In particular, describe how you used structs or enums, as well as protocols.**
 
